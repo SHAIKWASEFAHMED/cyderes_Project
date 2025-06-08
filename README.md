@@ -8,9 +8,15 @@ I configured AWS credentials securely using aws configure, ensuring that sensiti
 
 **2. Create Terraform code including the following:**
 a. Pick a provider (GCP, AWS, Azure, Oracle Cloud, etc.)      - Completed
+
 b. A backend for statefile storage - Completed
+
 c. A resource component (ex. Virtual Machine) - Completed
+
 d. Data object to grab a property from the resource  - Completed
+
 e. Output the name and or any other property of the resource - Completed
+
  Upload the Terraform code in a separate directory titled Terraform - Done
+
  Provide screenshots of resources defined via Terraform in the environment they were deployed to - Included the Screenshots -Completed
